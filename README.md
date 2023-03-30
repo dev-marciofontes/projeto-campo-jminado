@@ -1,5 +1,5 @@
 # projeto-campo-jminado
-O projeto “Campo J-Minado” é um programa que simula o famoso jogo de mesmo nome e utiliza o JUnit para fazer diversos testes unitários.
+O projeto “Campo J-Minado” é um programa que simula o famoso jogo Campo Minado e utiliza o JUnit para fazer diversos testes unitários.
 
 O jogo consiste em um tabuleiro de células que pode conter minas ou ser vazio. O objetivo é abrir todas as células que não contêm minas, sem abrir nenhuma célula que contenha uma mina. O programa implementado cria um campo minado com uma matriz de objetos “Campo” (representando as células) e cada um desses objetos possui atributos que indicam sua posição, se há ou não uma mina, se está aberto, se está marcado como minado, entre outros.
 
